@@ -1,5 +1,5 @@
 #include<stdio.h>
-// 他妈的写的啥
+// 这是主函数
 int main() {
     printf("hhhh");
     return 0;
